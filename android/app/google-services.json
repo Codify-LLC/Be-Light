@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "527264962266",
+    "project_id": "be-light-b9fad",
+    "storage_bucket": "be-light-b9fad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527264962266:android:3e56092c0907e2b90a37e3",
+        "android_client_info": {
+          "package_name": "com.belight.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527264962266-3ih3kldi4hrtc7ruvvrao1s1jhdvk6li.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.belight.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "527264962266-u4s8ih3qjrsqsfpju3cfh1b1q6k70npa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLiNstpEOiTXB1yu-ggIO8KIgO4Pu3VAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527264962266-u4s8ih3qjrsqsfpju3cfh1b1q6k70npa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "527264962266-5rkhoqnjlohmk045a12ig6u5qkpr3qvp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.belight.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527264962266:android:8b728064fd9ef2520a37e3",
+        "android_client_info": {
+          "package_name": "com.mycompany.belight4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527264962266-r3qh7b6uugvnv73njs2i6aktdhkfd9vb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.belight4",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "527264962266-u4s8ih3qjrsqsfpju3cfh1b1q6k70npa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLiNstpEOiTXB1yu-ggIO8KIgO4Pu3VAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527264962266-u4s8ih3qjrsqsfpju3cfh1b1q6k70npa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "527264962266-5rkhoqnjlohmk045a12ig6u5qkpr3qvp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.belight.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

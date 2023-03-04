@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>527264962266-5rkhoqnjlohmk045a12ig6u5qkpr3qvp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.527264962266-5rkhoqnjlohmk045a12ig6u5qkpr3qvp</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>527264962266-3ih3kldi4hrtc7ruvvrao1s1jhdvk6li.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBhDPNZLMK2K-ekeU84jzn36o0CmFVtBSg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>527264962266</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.belight.app</string>
+	<key>PROJECT_ID</key>
+	<string>be-light-b9fad</string>
+	<key>STORAGE_BUCKET</key>
+	<string>be-light-b9fad.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:527264962266:ios:f2f3f4b23c290fb60a37e3</string>
+</dict>
+</plist>
